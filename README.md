@@ -1,5 +1,5 @@
 # 💫 About Me:
-HI! I'm currently studying CS in AIUB<br>An occasional Graphics designer helping out various group & clubs.<br>Competitive on R6 and CS(GO {rip}) and a daily player, I know, what a downgrade :D
+<br>An occasional Graphics designer helping out various group & clubs.<br>Competitive on R6 and CS(GO {rip}) and a daily player, I know, what a downgrade :D
 
 
 ## 🌐 Socials:
