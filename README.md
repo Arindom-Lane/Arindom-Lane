@@ -1,5 +1,3 @@
-# 💫 About Me:
-<br>An occasional Graphics designer helping out various group & clubs.<br>Competitive on R6 and CS(GO {rip}) and a daily player, I know, what a downgrade :D
 
 
 ## 🌐 Socials:
