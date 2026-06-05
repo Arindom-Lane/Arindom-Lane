@@ -1,7 +1,7 @@
 
 
 ## 🌐 Socials:
-linkedin - https://linkedin.com/in/arindom-paul-b4b618288 <br>
+
 deviantart - https://www.deviantart.com/arino99
 
 # 💻 Tech Stack:
