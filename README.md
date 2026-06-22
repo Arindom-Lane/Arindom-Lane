@@ -1,6 +1,6 @@
 
 
-## 🌐 Socials:
+## 👥 Socials:
 
 deviantart - https://www.deviantart.com/arino99
 
