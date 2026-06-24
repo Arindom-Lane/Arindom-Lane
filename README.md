@@ -6,10 +6,13 @@ deviantart - https://www.deviantart.com/arino99
 
 
 ## 🌐 Web Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Clip Studio Paint](https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,nestjs,cs,)](https://skillicons.dev)
+
+### 📝 Also worked in
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,java,mysql,nestjs,cs,)](https://skillicons.dev)
+
 
 ### 💻 Design Stack:
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) 
+[![My Skills](https://skillicons.dev/icons?i=ps,ai,figma,blender&theme=light)](https://skillicons.dev)
 
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 100 100"><path fill="#300" d="M17.708 1h64.584C92.083 1 100 8.917 100 18.708v62.084c0 9.791-7.917 17.708-17.708 17.708H17.708C7.917 98.5 0 90.583 0 80.792V18.708C0 8.917 7.917 1 17.708 1"/><path fill="#ff9a00" d="M48.458 59.5h-15.5l-3.166 9.792a.73.73 0 0 1-.792.583h-7.833c-.459 0-.584-.25-.459-.75L34.125 30.5c.125-.417.25-.875.417-1.375.166-.875.25-1.792.25-2.708-.042-.209.125-.417.333-.459h10.792c.333 0 .5.125.541.334l15.209 42.916c.125.459 0 .667-.417.667h-8.708c-.292.042-.584-.167-.667-.458zm-13.083-8.458h10.583a59 59 0 0 0-.958-3c-.375-1.125-.75-2.334-1.125-3.584-.417-1.291-.792-2.541-1.208-3.833a90 90 0 0 1-1.125-3.708c-.334-1.167-.625-2.25-.917-3.25h-.083a51 51 0 0 1-1.417 5.375c-.625 2-1.25 4.083-1.917 6.166a82 82 0 0 1-1.833 5.834M70.75 33.083c-1.375.042-2.708-.5-3.708-1.458a5.4 5.4 0 0 1-1.417-3.833 4.9 4.9 0 0 1 1.5-3.709c1-.958 2.333-1.458 3.708-1.458 1.625 0 2.875.5 3.792 1.458A5.26 5.26 0 0 1 76 27.792a5.27 5.27 0 0 1-1.458 3.833c-.959 1-2.375 1.542-3.792 1.458M66.083 69.25V37.167c0-.417.167-.584.542-.584h8.25c.375 0 .542.209.542.584V69.25c0 .458-.167.667-.542.667h-8.167c-.416 0-.625-.25-.625-.667"/></svg>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
